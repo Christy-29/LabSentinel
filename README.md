@@ -184,3 +184,16 @@ GitHub: [@Christy-29](https://github.com/Christy-29)
 ## ⚠️ Disclaimer
 
 LabSentinel is an educational cybersecurity project intended for authorized monitoring, testing, and research. It should be validated and secured before use in a production environment.
+
+## 👨‍💻 Author & Copyright
+
+**Developed by Christy Grace V**  
+CSE – Cyber Security Student
+
+GitHub: [@Christy-29](https://github.com/Christy-29)
+
+**Copyright © 2026 Christy Grace V. All rights reserved.**
+
+LabSentinel is an educational cybersecurity project developed for portfolio demonstration and evaluation. Please refer to the repository's `LICENSE` file for permitted use.
+
+If you would like to reuse, redistribute, or build upon this project beyond the permissions granted in the license, please request written permission from the author.
